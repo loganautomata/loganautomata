@@ -6,7 +6,7 @@
 
 ### About ME
 
-:man: I don't have many hobbies. I just like playing games, coding and reading. If you want to know more about me, you can go to my [blog](https://loganren.xyz/).
+:man: I don't have many hobbies. I just like playing games, coding and reading. If you want to know more about me, you can go to my [blog](https://logan.ren).
 
 ### Github Analysis
 
