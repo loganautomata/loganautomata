@@ -1,6 +1,6 @@
 # Hello~
 
-![Kratos](https://images.loganren.xyz/images/2020/12/04/background.jpg)
+![Kratos](https://img.oss.logan.ren/2020/12/04/background.jpg)
 
 ## Logan
 
